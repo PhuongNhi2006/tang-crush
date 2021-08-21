@@ -1,6 +1,8 @@
 const CONFIG = {
     introTitle: ' Nè nè  cậu ưiiii <3',
-    introDesc: `Tớ hỏi một câu nhá, phải nói thật lòng đấy, không được điêu đâu <3`,
+    introDesc: `Tớ hỏi một câu nhá! 
+    Phải nói thật lòng đấy!
+    Không được điêu đâu <3`,
     btnIntro: 'Oke nò',
     title: ' Tớ thích cậu lắm ó, thích nhìu nhìu nhìu lắm luon nò 😙',
     desc: 'Có phải cậu cũng thích tớ đúng khum, có phải khong nè cậu <3 ',
