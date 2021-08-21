@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Có phải cậu cũng thích tớ đúng khum, có phải khong nè cậu <3 ',
     btnYes: 'Tui thích cậu lắm ó <33',
     btnNo: 'Không, cậu bị ảo tưởng sức mạnh hã :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao tớ lại yêu mỗi cậu thế nhỉ =((  <3',
+    question:'Nè sao cậu lại thích tớ thế hã, tớ dễ thương lém ó đúng khong nè  <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <333333 Mà ai cho hong yêu hỏ =))',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều  😘',
